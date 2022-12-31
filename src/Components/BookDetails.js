@@ -4,11 +4,11 @@ import { BookContext } from '../context/BookContext';
 const BookDetails=({book})=>{
     const {removeBook}=useContext(BookContext);
     return(
-        <li onAuxClick={()=>removeBook(book.id)}>
-            <div class="title">
+        <li onClick={()=>removeBook(book.id)}>
+            <div className="title">
                 {book.title}
             </div>
-            <div class="author">
+            <div className="author">
                 {book.author}
             </div>
         </li>

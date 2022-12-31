@@ -7,13 +7,14 @@ body{
   margin: 20px auto;
   width:90%;
   max-width: 700px;
-  color:rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
 }
 
 .navbar{
   padding: 10px 20px;
   text-align: center;
   background: rgb(21, 9, 29);
+  color:azure;
   ;
 }
 .navbar h2{
