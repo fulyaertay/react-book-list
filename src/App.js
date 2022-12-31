@@ -5,10 +5,10 @@ import BookContextProvider from './context/BookContext';
 
 function App() {
   return (
-    <div className="App">
+    <div class="App">
      <BookContextProvider>
       <Navbar>
-        
+
       </Navbar>
      </BookContextProvider>
     </div>

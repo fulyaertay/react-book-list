@@ -4,7 +4,7 @@ const Navbar=()=>{
     const {books}=useContext(BookContext);
     return(
 
-        <div classname="navbar">
+        <div class="navbar">
             <h2>AOS Book List</h2>
             <p>{books.length} books</p>
         </div>
