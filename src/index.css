@@ -23,3 +23,7 @@ body{
 .book-list{
   margin:20px;
 }
+
+.book-list ul{
+  padding:0;
+}
