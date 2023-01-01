@@ -26,4 +26,23 @@ body{
 
 .book-list ul{
   padding:0;
+  list-style-type: none;
+}
+
+.book-list li{
+  background: rgb(216, 214, 214);
+  border-radius: 4px;
+  padding: 10px;
+  cursor:pointer;
+  margin:10px 0;
+}
+
+.book-list li:hover{
+  opacity: 0.7;
+  text-decoration: line-through;
+}
+
+.book-list .title{
+  font-weight:bold;
+
 }
