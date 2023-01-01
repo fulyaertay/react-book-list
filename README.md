@@ -1,4 +1,30 @@
-## Not finished!!
+## Project: Book List App
+
+
+## Animation of the App
+
+![image](./book-list.gif)
+
+## Visulation of the App
+
+![image](./book-list.png)
+
+## Description
+```bash
+- User can add new books typing book title and author
+- User can list added books
+- User can delete added books by clicking on each book
+```
+
+## Overview
+I mastered HTML, CSS, JavaScript, Local Storage and React features in this project. You can see the visual representation of the app above.
+
+## Technologies 💻
+```bash
+- React(useState,useEffect,localStorage, Context API, Components)
+- JavaScript
+- HTML/CSS
+```
 
 
 # Getting Started with Create React App
