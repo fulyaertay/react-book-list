@@ -6,7 +6,7 @@ const Navbar=()=>{
 
         <div className="navbar">
             <h2>AOS Book List</h2>
-            <p>{books.length} books</p>
+            <p>{books.length} books found!</p>
         </div>
     )
 }
