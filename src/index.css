@@ -44,5 +44,6 @@ body{
 
 .book-list .title{
   font-weight:bold;
-
+  color:rgb(21, 9, 29);
+  font-size:1.2em;
 }
