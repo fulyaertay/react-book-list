@@ -47,3 +47,14 @@ body{
   color:rgb(21, 9, 29);
   font-size:1.2em;
 }
+
+.book-list .author{
+  font-size: 0.9em;
+}
+
+.empty{
+  margin: 10px;
+  text-align: center;
+  font-size: 1.2em;
+  color:rgb(21, 9, 29);
+}
