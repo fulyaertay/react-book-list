@@ -58,3 +58,23 @@ body{
   font-size: 1.2em;
   color:rgb(21, 9, 29);
 }
+
+form{
+  padding:20px;
+}
+input[type="text"] {
+  width:100%;
+  padding:10px;
+  box-sizing:border-box;
+  margin:6px 0;
+  background: rgb(21, 9, 29);
+  color:rgba(255, 255, 255, 0.897);
+  border:0;
+}
+input[type="submit"]{
+  margin:10px auto;
+  background: #eee;
+  border-radius: 2px;
+  padding:6px 20px;
+  display: block;
+}
